@@ -1,0 +1,4 @@
+特别说明：
+Extratree 需要spsspro平台支持，这个好像python没有这个依赖库，需要spsspro客户端支持
+LineModel 需要缺失值处理后的数据（spsspro也能做到）
+其余程序都可以正常运行
